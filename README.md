@@ -79,7 +79,7 @@ class AboutMe:
 <br>
 
 
-<h3>📜Certifications & Honors</h3>
+<h3>📜Certifications</h3>
 <ul>
   <li>Academic Excellence Scholarship (Top 2% in Major)</li>
   <li>SQL Developer</li>
