@@ -29,12 +29,7 @@ class AboutMe:
 </ul>
 <br>
 
-<h3>📜Certifications</h3>
-<ul>
-  <li>SQL Developer</li>
-  <li>TOEFL ITP </li>
-</ul>
-<br>
+
 
 <h3>💻 Projects</h3>
 <ul>
@@ -42,48 +37,52 @@ class AboutMe:
     <b>빈 강의실 예약 시스템 - [강찜콩]</b><br>
     - 캠퍼스 내 빈 강의실을 실시간으로 확인하고 예약할 수 있는 웹 기반 시스템
   </li>
-  <br>
+
 
   <li>
     <b>AIT 코딩동아리 프로젝트 - [Grobit Calendar]</b><br>
     - 일정 달성률에 따라 성장하는 캘린더 서비스로, 목표 관리 및 동기부여 기능 구현
   </li>
-  <br>
+ 
 
   <li>
     <b>Co-week Academy </b><br>
     - 4박 5일간 진행된 IT 분야 집중 교육 수강
   </li>
-  <br>
+ 
 
   <li>
     <b>학술대회 연구 프로젝트</b><br>
     - 캠퍼스 혼잡도 예측을 통한 대기 시간 시스템 구현 방안 연구
   </li>
-  <br>
+
 
   <li>
     <b>ESQL Assignment – 식당 테이블 예약·주문 관리 시스템</b><br>
     - 데이터베이스 설계를 기반으로 한 식당 예약 및 주문 관리 시스템 구현
   </li>
-  <br>
+
 
   <li>
     <b>웹 프로그래밍 프로젝트 - [SoundLetter]</b><br>
     - 감정 및 관계 중심의 음악 추천·공유 플랫폼 개발
   </li>
-  <br>
+ 
 
 <li>
   <b>2026 원티드랩 빅데이터 프롬프톤 – 반려동물 동반 여행 플랜 추천 AI 모델 개발</b><br>
   - LaaS를 활용한 AI 모델 설계 및 데이터 기반 문제 해결 프로젝트
 </li>
-
 </ul>
 <br>
 
 
-
+<h3>📜Certifications</h3>
+<ul>
+  <li>SQL Developer</li>
+  <li>TOEFL ITP </li>
+</ul>
+<br>
 
 
 <h3 align="left">🛠 언어 및 도구</h3>
