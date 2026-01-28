@@ -3,7 +3,7 @@
 
 
 
-<h2>🧑‍💻 About Me</h2>
+<h3>🧑‍💻 About Me</h3>
 
 <pre>
 class AboutMe:
@@ -17,7 +17,7 @@ class AboutMe:
 
 
 
-<h2>🏆 수상</h2>
+<h3>🏆 수상</h3>
 <ul>
   <li>
     <b>2025 숙명여대X국민대 연합해커톤 우수상</b><br>
@@ -37,13 +37,13 @@ class AboutMe:
 
 
 
-<h2>📜 자격증</h2>
+<h3>📜 자격증</h3>
 <ul>
   <li>SQLD</li>
   <li>TOEFL ITP </li>
 </ul>
 
-<hr>
+
 
 <h3 align="left">🛠 언어 및 도구</h3>
 <p align="left">
