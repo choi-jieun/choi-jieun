@@ -1,4 +1,5 @@
 <h3 align="center">👋 안녕하세요!<br>저는 <b>최지은</b>입니다</h3> 
+<h5 align="center" color = "gray"> 2학년</h5> 
 <br>
 
 
