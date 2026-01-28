@@ -1,4 +1,4 @@
-<h1 align="center">👋 안녕하세요!<br>저는 <b>최지은</b>입니다 😊</h1> 
+<h1 align="center">👋 안녕하세요!<br>저는 <b>최지은</b>입니다</h1> 
 <h3 align="center">숙명여자대학교 2학년 학생</h3>
 
 
