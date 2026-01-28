@@ -1,20 +1,3 @@
-<svg viewBox="0 0 800 120" width="800" height="120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="g" x1="0%" y1="50%" x2="100%" y2="50%">
-      <stop offset="0%" stop-color="#3828ca">
-        <animate attributeName="offset" values="0;1;0" dur="3s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#ff004c"/>
-    </linearGradient>
-  </defs>
-
-  <text x="400" y="78" text-anchor="middle"
-        font-size="56" font-weight="900"
-        font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"
-        fill="url(#g)">
-    Marton Lederer
-  </text>
-</svg>
 
 <h3 align="center">👋 안녕하세요!<br>저는 <b>최지은</b>입니다</h3>
 <h5 align="center" style="color: lightgray;">2학년<br>not a butterfly yet 🐛</h5>
