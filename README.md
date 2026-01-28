@@ -22,7 +22,7 @@ class AboutMe:
     - [공기지킴이] 지능형 공기 모니터링 및 관리 시스템
   </li>
   <li>
-    <b>MEIT 대회 동상</b><br>
+    <b>공대전공융합프로젝트 MEIT 대회 동상</b><br>
     - [Travel Balence] 여행 밸런스 게임을 통해 여행 성향 분석 후 여행 균형점을 찾아준다 
   </li>
 </ul>
