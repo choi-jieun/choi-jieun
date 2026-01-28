@@ -1,15 +1,7 @@
-
-
-<h1 align="center">안녕하세요 👋, 저는 최지은입니다</h1>
-<h3 align="center">숙명여자대학교 3학년 학생</h3>
-
 ## 👋 안녕하세요!
 ### 저는 **최지은**입니다 😊  
 
-🎓 **숙명여자대학교 인공지능공학부 전공**  
-📊 **빅데이터분석 연계전공**  
-
----
+<h3 align="center">숙명여자대학교 3학년 학생</h3>
 
 ## 🧑‍💻 About Me
 ```python
@@ -17,7 +9,7 @@ class AboutMe:
     name = "Ji-eun Choi"
     university = "Sookmyung Women's University"
     major = "AI Engineering"
-    minor = "Big Data Analytics"
+    minor = "Big Data Analytics"'''
 
 
 <h3 align="left">언어 및 도구:</h3>
