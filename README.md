@@ -118,3 +118,6 @@ class AboutMe:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
   </a>
 </p>
+<br>
+<br>
+<h3 align="center"><b>✉️jieun560700@naver.com</b></h3> 
