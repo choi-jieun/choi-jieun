@@ -1,7 +1,7 @@
-<h1>👋 안녕하세요!<br>저는 <b>최지은</b>입니다 😊</h1>
+<h1 align="center">👋 안녕하세요!<br>저는 <b>최지은</b>입니다 😊</h1>
 <h3 align="center">숙명여자대학교 3학년 학생</h3>
 
-<hr>
+
 
 <h2>🧑‍💻 About Me</h2>
 
@@ -13,26 +13,20 @@ class AboutMe:
     minor = "Big Data Analytics"
 </pre>
 
-<hr>
+
+
+
 
 <h2>🏆 수상</h2>
 <ul>
-  <li>🥇 해커톤 우수상</li>
-  <li>🥉 MEIT 대회 동상</li>
-</ul>
-
-<hr>
-
-<h2>🧩 프로젝트</h2>
-<ul>
   <li>
-    <b>해커톤 프로젝트</b><br>
-    - AI 기반 문제 해결 서비스 기획 및 구현
+    <b>2025 숙명여대X국민대 연합해커톤 우수상</b><br>
+    - [공기지킴이] 지능형 공기 모니터링 및 관리 시스템
   </li>
   <br>
   <li>
-    <b>MEIT 대회 프로젝트</b><br>
-    - 데이터 분석 기반 시스템 설계 및 모델링
+    <b>MEIT 대회 동상</b><br>
+    - [Travel Balence] 여행 밸런스 게임을 통해 여행 성향 분석 후 여행 균형점을 찾아준다 
   </li>
   <br>
   <li>
@@ -41,12 +35,12 @@ class AboutMe:
   </li>
 </ul>
 
-<hr>
+
 
 <h2>📜 자격증</h2>
 <ul>
-  <li>✅ SQLD</li>
-  <li>✅ TOEFL ITP 540</li>
+  <li>SQLD</li>
+  <li>TOEFL ITP </li>
 </ul>
 
 <hr>
