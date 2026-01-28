@@ -1,5 +1,5 @@
 <h3 align="center">👋 안녕하세요!<br>저는 <b>최지은</b>입니다</h3> 
-
+<br>
 
 
 
@@ -78,8 +78,9 @@ class AboutMe:
 <br>
 
 
-<h3>📜Certifications</h3>
+<h3>📜Certifications & Honors</h3>
 <ul>
+  <li>Academic Excellence Scholarship (Top 2% in Major)</li>
   <li>SQL Developer</li>
   <li>TOEFL ITP </li>
 </ul>
