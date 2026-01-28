@@ -46,7 +46,7 @@ class AboutMe:
  
 
   <li>
-    <b>Co-week Academy - </b>
+    <b>Co-week Academy</b><br>
     - 4박 5일간 진행된 IT 분야 집중 교육 수강
   </li>
  
