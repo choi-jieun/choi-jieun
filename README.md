@@ -11,7 +11,7 @@ class AboutMe:
     name = "Ji-eun Choi"
     university = "Sookmyung Women's University"
     year = "Sophomore"
-    major = "AI Engineering, Big Data Analytics (Double Major)"
+    major = "AI Engineering, Big Data Analytics(Double Major)"
 </pre>
 <br>
 
