@@ -41,12 +41,12 @@ class AboutMe:
 
   <li>
     <b>AIT 코딩동아리 프로젝트 - [Grobit Calendar]</b><br>
-    - 일정 달성률에 따라 성장하는 캘린더 서비스로, 목표 관리 및 동기부여 기능 구현
+    - 일정 달성률에 따라 나만의 캐릭터가 성장하는 캘린더로, 목표 관리 및 동기부여 기능 구현
   </li>
  
 
   <li>
-    <b>Co-week Academy </b><br>
+    <b>Co-week Academy - </b>
     - 4박 5일간 진행된 IT 분야 집중 교육 수강
   </li>
  
