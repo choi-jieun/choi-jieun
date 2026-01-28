@@ -120,4 +120,4 @@ class AboutMe:
 </p>
 <br>
 <br>
-<h3 align="center"><b>✉️jieun560700@naver.com</b></h3> 
+<h5 align="center"><b>✉️jieun560700@naver.com</b></h5> 
