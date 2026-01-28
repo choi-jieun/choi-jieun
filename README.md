@@ -12,7 +12,7 @@ class AboutMe:
     major = "AI Engineering"
     minor = "Big Data Analytics"
 </pre>
-
+<br>
 
 
 
@@ -28,7 +28,7 @@ class AboutMe:
     - [Travel Balence] 여행 밸런스 게임을 통해 여행 성향 분석 후 여행 균형점을 찾아준다 
   </li>
 </ul>
-
+<br>
 
 
 <h3>📜Certifications</h3>
@@ -36,7 +36,7 @@ class AboutMe:
   <li>SQL Developer</li>
   <li>TOEFL ITP </li>
 </ul>
-
+<br>
 
 
 <h3 align="left">🛠 언어 및 도구</h3>
