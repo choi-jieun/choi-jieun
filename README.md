@@ -27,7 +27,7 @@ class AboutMe:
     - [Travel Balence] 여행 밸런스 게임을 통해 여행 성향 분석 후 여행 균형점을 찾아준다 
   </li>
   <li>
-    <b>숙명여대 기계X전자X인공지능 전공융합대회 MEIT 동상</b><br>
+    <b>숙명여대 기계X전자X인공지능 전공융합대회 MEIT 동상</b> <a>https://github.com/khwak/2025-MEIT-AirProtector.git</a><br>
     - [공기지킴이] 지능형 공기 모니터링 및 관리 시스템
   </li>
   
