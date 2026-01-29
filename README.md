@@ -69,7 +69,7 @@ class AboutMe:
 
 
   <li>
-    <b>웹 프로그래밍 프로젝트 - [SoundLetter]</b><br>
+    <b><a href="https://github.com/isliese/webProgramming-midAssignment.git">웹 프로그래밍 프로젝트</a> - [SoundLetter]</b><br>
     - 감정 및 관계 중심의 음악 추천·공유 플랫폼 개발
   </li>
  
