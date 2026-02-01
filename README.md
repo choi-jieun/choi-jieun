@@ -23,7 +23,7 @@ class AboutMe:
 <h3>🏆Awards</h3>
 <ul>
     <li>
-        <pre style="background:gray; padding:2px 6px; border-radius:6px; font-size:0.85em;">2025.01</pre>
+        <span style="background:gray; padding:2px 6px; border-radius:6px; font-size:0.85em;">2025.01</span>
     <b><a href="https://github.com/2025-cokothon-team-3/frontend.git">2025 숙명여대X국민대 연합해커톤</a> 우수상</b><br>
     - [Travel Balence] 여행 밸런스 게임을 통해 여행 성향 분석 후 여행 균형점을 찾아준다 
   </li>
