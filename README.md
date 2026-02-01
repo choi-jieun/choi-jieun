@@ -24,13 +24,10 @@ class AboutMe:
 <ul>
     <li>
         <span style="
-      background-color:#e5e7eb;
-      color:#111827;
+      background-color:#f3f4f6;
       padding:2px 8px;
       border-radius:6px;
       font-size:0.85em;
-      display:inline-block;
-      margin-right:6px;
     ">
       2025.01
     </span>
