@@ -23,14 +23,6 @@ class AboutMe:
 <h3>🏆Awards</h3>
 <ul>
     <li>
-        <span style="
-      background-color:#f3f4f6;
-      padding:2px 8px;
-      border-radius:6px;
-      font-size:0.85em;
-    ">
-      2025.01
-    </span>
     <b><a href="https://github.com/2025-cokothon-team-3/frontend.git">2025 숙명여대X국민대 연합해커톤</a> 우수상</b><br>
     - [Travel Balence] 여행 밸런스 게임을 통해 여행 성향 분석 후 여행 균형점을 찾아준다 
   </li>
@@ -132,3 +124,12 @@ class AboutMe:
 <br>
 <br>
 <h5 align="center"><b>✉️jieun560700@naver.com</b></h5> 
+
+
+
+- `2025.01` **[숙명여대 × 국민대 연합해커톤](https://github.com/2025-cokothon-team-3/frontend.git)** 우수상  
+  - [Travel Balance] 여행 밸런스 게임을 통해 여행 성향을 분석하고 최적의 여행 유형 제안
+
+- `2024.11` **[숙명여대 기계×전자×인공지능 전공융합대회 MEIT](https://github.com/khwak/2025-MEIT-AirProtector.git)** 동상  
+  - [공기지킴이] 지능형 공기 모니터링 및 관리 시스템
+
