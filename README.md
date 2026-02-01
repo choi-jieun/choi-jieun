@@ -1,6 +1,6 @@
 
 <h3 align="center">👋 안녕하세요!<br>저는 <b>최지은</b>입니다</h3>
-<h5 align="center" style="color: lightgray;"><b>2학년</b>, not a butterfly yet 🐛 </h5>
+<h5 align="center" style="color: lightgray;"><b>3학년</b>, not a butterfly yet 🐛 </h5>
 
 
 <br>
@@ -13,7 +13,7 @@
 class AboutMe:
     name = "Ji-eun Choi"
     university = "Sookmyung Women's University"
-    year = "Sophomore"
+    year = "Junior"
     major = "AI Engineering, Big Data Analytics(Double Major)"
 </pre>
 <br>
