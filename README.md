@@ -93,7 +93,7 @@ class AboutMe:
 <h3>📜Certifications</h3>
 <ul>
   <li><code>2025.3</code>SQLD</li>
-  <li><code>2025.8</code>학업 우수 장학금(상위 2%)</li>
+  <li><code>2025.8</code>학업우수장학금(상위 2%)</li>
   <li><code>2026.1</code>TOEFL ITP </li>
 </ul>
 <br>
