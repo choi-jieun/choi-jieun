@@ -52,8 +52,8 @@ class AboutMe:
     <b>Co-week Academy</b><br>
     - 4박 5일간 진행된 IT 분야 집중 교육 수강
   </li>
-
-    <li>
+  
+  <li>
       <code>2025.3-2025.8</code>
     <b>AIT 코딩동아리 프로젝트 - [Grobit Calendar]</b><br>
     - 일정 달성률에 따라 나만의 캐릭터가 성장하는 캘린더로, 목표 관리 및 동기부여 기능 구현
