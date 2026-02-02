@@ -90,7 +90,7 @@ class AboutMe:
 <br>
 
 
-<h3>📜Certifications</h3>
+<h3>📜Certificatates</h3>
 <ul>
   <li><code>2025.3</code>SQLD</li>
   <li><code>2025.8</code>Academic Excellence Scholarship(Top 2% in major), Spring 2025</li>
