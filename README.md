@@ -92,7 +92,7 @@ class AboutMe:
 <br>
 
 
-<h3>📜Certificates</h3>
+<h3>📜Certifications</h3>
 <ul>
   <li><code>2025.3</code>SQLD</li>
   <li><code>2026.1</code>TOEFL ITP </li>
