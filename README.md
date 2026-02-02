@@ -95,6 +95,7 @@ class AboutMe:
   <li><code>2025.3</code>SQLD</li>
   <li><code>2025.8</code>Academic Excellence Scholarship(Top 2% in major)</li>
   <li><code>2026.1</code>TOEFL ITP </li>
+    <li><code>2026.2</code>College Valedictorian (Fall 2025 Semester)</li>
 </ul>
 <br>
 
