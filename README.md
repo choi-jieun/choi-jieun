@@ -22,6 +22,7 @@ class AboutMe:
 
 <h3>🏆Honors & Awards</h3>
 <ul>
+    <li><code>2025.2</code>Academic Excellence Scholarship(Top 5% in major), Fall 2024</li>
     <li>
         <code>2025.8.30-31</code>
     <b><a href="https://github.com/2025-cokothon-team-3/frontend.git">2025 숙명여대X국민대 연합해커톤</a> 우수상</b><br>
