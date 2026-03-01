@@ -34,7 +34,7 @@ class AboutMe:
     <b><a href="https://github.com/khwak/2025-MEIT-AirProtector.git">숙명여대 기계X전자X인공지능 전공융합대회 MEIT</a> 동상</b> <br>
     - [공기지킴이] 지능형 공기 모니터링 및 관리 시스템
   </li>
-  <li><code>2026.2</code>Top Student of the College, Fall 2025</li>
+  <li><code>2026.2</code>Top Student in the College of Engineering, Fall 2025</li>
   
 </ul>
 <br>
