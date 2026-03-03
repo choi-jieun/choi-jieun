@@ -100,6 +100,12 @@ class AboutMe:
 </ul>
 <br>
 
+<h3>📜volunteering</h3>
+<ul>
+  <li><code>2025.6.14-20</code>매장 도우미 및 기증응대 봉사</li>
+  <li><code>2025.11.7</code>유치원 봉사</li>
+</ul>
+<br>
 
 <h3 align="left">🛠 언어 및 도구</h3>
 <p align="left">
