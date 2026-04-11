@@ -6,9 +6,6 @@
 <br>
 
 
-
-<h3>🧑‍💻About Me</h3>
-
 <pre>
 class AboutMe:
     name = "Ji-eun Choi"
