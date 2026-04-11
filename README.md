@@ -114,7 +114,7 @@
 <br>
 
 
-<h3>🌱Interests</h3>
+<h3>🌱Future Interests</h3>
 <ul>
   <li>🍁 Exchange Program (Canada)</li>
   <li>🌍 English</li>
