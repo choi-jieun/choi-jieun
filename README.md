@@ -95,7 +95,6 @@
   <li><code>2025.3-2025.6</code>AIT Coding Club</li>
   
 </ul>
->
 
 
 <h3>📜Certifications</h3>
