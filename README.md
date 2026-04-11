@@ -48,7 +48,7 @@
   </li>
   
   <li>
-      <code>2025.3-2025.8</code><b> Grobit Calendar Project (AIT Project)</b> - 일정 달성률에 따라 나만의 캐릭터가 성장하는 캘린더로, 목표 관리 및 동기부여 기능 구현
+      <code>2025.3-2025.8</code><b> 'Grobit Calendar' Project (AIT Project)</b> - 일정 달성률에 따라 나만의 캐릭터가 성장하는 캘린더로, 목표 관리 및 동기부여 기능 구현
   </li>
   
   <li>
