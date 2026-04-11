@@ -20,7 +20,7 @@
 <h3>🤝Activities</h3>
 <ul>
   <li><code>2026.3- present </code>IT’s U Leadership Group</li>
-  <li><code>2025.3-20205.6</code>AIT Coding Club</li>
+  <li><code>2025.3-2025.6</code>AIT Coding Club</li>
   
 </ul>
 <br>
