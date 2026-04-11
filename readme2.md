@@ -10,9 +10,9 @@ class AboutMe:
     name = "Ji-eun Choi"
     university = "Sookmyung Women's University"
     year = "Junior"
-    major = "AI Engineering, Big Data Analytics (Double Major)"
+    major = "AI Engineering, Big Data Analytics (Double Major)" 
 
-
+---
 
 🏆 Honors & Awards
 <code>2026.2</code> Top Student in the College of Engineering, Fall 2025
