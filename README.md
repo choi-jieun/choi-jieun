@@ -45,7 +45,7 @@
   </li>
 
   <li>
-      <code>2025.6.30-2025.7.4</code><b> Co-week Academy</b>- 4박 5일간 진행된 IT 분야 집중 교육 수강
+      <code>2025.6.30-2025.7.4</code><b><a href ="https://www.cossnet.com/coweek/intro"> Co-week Academy</a></b>- 4박 5일간 진행된 IT 분야 집중 교육 수강
   </li>
   
   <li>
