@@ -107,6 +107,14 @@ class AboutMe:
 </ul>
 <br>
 
+<h3>🙌i'm interested in </h3>
+<ul>
+  <li>캐나다 교환학생 </li>
+  <li>데이터</li>
+</ul>
+<br>
+
+
 <h3 align="left">🛠 언어 및 도구</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
