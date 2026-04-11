@@ -14,7 +14,6 @@ class AboutMe:
 
 
 
-
 🏆 Honors & Awards
 <code>2026.2</code> Top Student in the College of Engineering, Fall 2025
 <code>2025.8</code> Academic Excellence Scholarship (Top 2%), Spring 2025
