@@ -13,7 +13,6 @@
     year = "Junior"
     major = "AI Engineering, Big Data Analytics"
 </pre>
-<br>
 
 
 <h3 align="left">🛠 Tech Stack</h3>
@@ -24,11 +23,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-
 <img src="https://img.shields.io/badge/SQL-Database-blue?style=flat&logo=oracle"/>
 
 </p>
-<br>
 
 <h3>💻 Projects (From Student Projects to Real Experience) </h3> 
 <ul>
@@ -69,7 +66,6 @@
   </li>
   
 </ul>
-<br>
 
 <h3>🏆Honors & Awards</h3>
 <ul>
