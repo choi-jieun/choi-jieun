@@ -10,9 +10,9 @@ class AboutMe:
     name = "Ji-eun Choi"
     university = "Sookmyung Women's University"
     year = "Junior"
-    major = "AI Engineering, Big Data Analytics (Double Major)" 
+    major = "AI Engineering, Big Data Analytics (Double Major)" ```
 
----
+
 
 🏆 Honors & Awards
 <code>2026.2</code> Top Student in the College of Engineering, Fall 2025
@@ -76,4 +76,4 @@ DB 설계를 기반으로 한 식당 예약 및 주문 관리 시스템
 📊 Data
 🛠 Tech Stack
 <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/> </p>
-<p align="center"> 📫 <b>jieun560700@naver.com</b> </p> ```
+<p align="center"> 📫 <b>jieun560700@naver.com</b> </p> 
