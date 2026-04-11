@@ -24,8 +24,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://img.shields.io/badge/SQL-Database-blue?style=flat&logo=oracle"/>
-
 </p>
+
+<br>
 
 <h3>💻 Projects (From Student Projects to Real Experience) </h3> 
 <ul>
@@ -64,8 +65,9 @@
       <code>2025.3-2025.6</code><b>강찜콩 | Empty Classroom Reservation System</b><br>
     - 캠퍼스 내 빈 강의실을 실시간으로 확인하고 예약할 수 있는 웹 기반 시스템
   </li>
-  
 </ul>
+
+<br>
 
 <h3>🏆Honors & Awards</h3>
 <ul>
@@ -80,15 +82,14 @@
     - Travel Balance: 여행 밸런스 게임을 통해 여행 성향 분석 후 여행 균형점을 찾아준다 
   </li>
     <li><code>2025.2</code>Academic Excellence Scholarship(Top 5% in major), Fall 2024</li>
-  
 </ul>
+
 <br>
 
 <h3>🤝Activities</h3>
 <ul>
   <li><code>2026.3- present </code>IT’s U Leadership Group</li>
   <li><code>2025.3-2025.6</code>AIT Coding Club</li>
-  
 </ul>
 
 
@@ -96,7 +97,6 @@
 <ul>
   <li><code>2026.1</code>TOEFL ITP </li>
   <li><code>2025.3</code>SQLD</li>
-  
 </ul>
 
 
@@ -106,15 +106,12 @@
   <li><code>2025.6.14-20</code>매장 도우미 및 기증응대 봉사 </li>
 </ul>
 
-
-
 <h3>🌱Future Interests</h3>
 <ul>
   <li>🍁 Exchange Program (Canada)</li>
   <li>🌍 English</li>
   <li>📊 Data</li>
 </ul>
-<br>
 
 <h5 align="center"><b>✉️jieun560700@naver.com</b></h5> 
 
