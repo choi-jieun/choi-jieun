@@ -1,6 +1,6 @@
 
-<h3 align="center">👋 안녕하세요!<br>저는 <b>최지은</b>입니다</h3>
-<h5 align="center" style="color: lightgray;"><b>3학년</b>, not a butterfly yet 🐛 </h5>
+<h3 align="center">👋 Hi there,<br>I'm <b>Ji-eun Choi</h3>
+<h5 align="center" style="color: lightgray;">Junior Developer | Still growing 🐛 → 🦋 </h5>
 
 
 <br>
@@ -47,10 +47,10 @@ class AboutMe:
 </ul>
 <br>
 
-<h3>📜i'm part of</h3>
+<h3>🤝Activities</h3>
 <ul>
-  <li><code>2025.3-6</code>AIT코딩동아리</li>
-  <li><code>2026.3- present </code>IT's U 리더십그룹</li>
+  <li><code>2025.3-20205.6</code>AIT Coding Club</li>
+  <li><code>2026.3- present </code>IT’s U Leadership Group</li>
 </ul>
 <br>
 
@@ -60,7 +60,7 @@ class AboutMe:
 <ul>
   <li>
       <code>2025.3-2025.6</code>
-    <b>빈 강의실 예약 시스템 - [강찜콩]</b><br>
+    <b>강찜콩 | Empty Classroom Reservation System</b><br>
     - 캠퍼스 내 빈 강의실을 실시간으로 확인하고 예약할 수 있는 웹 기반 시스템
   </li>
  
@@ -73,35 +73,35 @@ class AboutMe:
   
   <li>
       <code>2025.3-2025.8</code>
-    <b>AIT 코딩동아리 프로젝트 - [Grobit Calendar]</b><br>
+    <b>Grobit Calendar (AIT Project)</b><br>
     - 일정 달성률에 따라 나만의 캐릭터가 성장하는 캘린더로, 목표 관리 및 동기부여 기능 구현
   </li>
  
 
   <li>
       <code>2025.8-2025.9</code>
-    <b>공과대학학술대회 연구 프로젝트</b><br>
-    - 캠퍼스 혼잡도 예측을 통한 대기 시간 시스템 구현 방안 연구
+    <b>Research Project (Engineering Conference)</b><br>
+    - 캠퍼스 혼잡도 예측을 통한 대기 시간 시스템 구현 방안 연구(공과대학학술대회)
   </li>
 
 
   <li>
        <code>2025.11</code>
-    <b>ESQL Assignment – 식당 테이블 예약·주문 관리 시스템</b><br>
-    - 데이터베이스 설계를 기반으로 한 식당 예약 및 주문 관리 시스템 구현
+    <b>ESQL Assignment – Restaurant System</b><br>
+    - DB 설계를 기반으로 한 식당 예약 및 주문 관리 시스템
   </li>
 
 
   <li>
        <code>2025.10-2025.12</code>
-    <b><a href="https://github.com/isliese/webProgramming-midAssignment.git">웹 프로그래밍 프로젝트</a> - [SoundLetter]</b><br>
-    - 감정 및 관계 중심의 음악 추천·공유 플랫폼 개발
+    <b><a href="https://github.com/isliese/webProgramming-midAssignment.git">SoundLetter</a>웹프로그래</b><br>
+    - 감정 및 관계 중심 음악 추천·공유 플랫폼
   </li>
 
 <li>
     <code>2026.1-2026.2</code>
-  <b>2026 원티드랩 빅데이터 프롬프톤 – 반려동물 동반 여행 플랜 추천 AI 모델 개발</b><br>
-  - LaaS를 활용한 AI 모델 설계 및 데이터 기반 문제 해결 프로젝트
+  <b>2026 WantedLab Big Data Promptathon</b><br>
+  - 반려동물 동반 여행 플랜 추천 AI 모델 개발 (LaaS 기반)
 </li>
 </ul>
 <br>
@@ -113,16 +113,16 @@ class AboutMe:
 </ul>
 <br>
 
-<h3>🙌i'm interested in </h3>
+<h3>🌱Interests</h3>
 <ul>
-  <li>캐나다 교환학생</li>
-    <li>영어</li>
-  <li>데이터</li>
+  <li>🇨🇦 Exchange Program (Canada)</li>
+    <li>🌍 English</li>
+  <li>📊 Data</li>
 </ul>
 <br>
 
 
-<h3 align="left">🛠 언어 및 도구</h3>
+<h3 align="left">🛠 Tech Stack</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
