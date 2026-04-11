@@ -91,10 +91,10 @@ class AboutMe:
 </ul>
 <br>
 
-<h3>📜i belong to </h3>
+<h3>📜i'm part of</h3>
 <ul>
   <li><code>2025.3-6</code>AIT코딩동아리 </li>
-  <li><code>2025.3- present </code>IT's U 리더십그룹</li>
+  <li><code>2026.3- present </code>IT's U 리더십그룹</li>
 </ul>
 <br>
 
