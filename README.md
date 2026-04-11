@@ -31,7 +31,7 @@ class AboutMe:
     <li><code>2025.8</code>Academic Excellence Scholarship(Top 2% in major), Spring 2025</li>
      <li>
         <code>2025.8.30-31</code>
-    <a href="https://github.com/2025-cokothon-team-3/frontend.git">2025 ookmyung × Kookmin Hackathon</a> <b>Excellence Award<<b></li><br>
+    <a href="https://github.com/2025-cokothon-team-3/frontend.git">2025 ookmyung × Kookmin Hackathon</a> <b>Excellence Award</b></li><br>
     - Travel Balance: 여행 밸런스 게임을 통해 여행 성향 분석 후 여행 균형점을 찾아준다 
   </li>
     <li><code>2025.2</code>Academic Excellence Scholarship(Top 5% in major), Fall 2024</li>
