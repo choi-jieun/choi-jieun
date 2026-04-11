@@ -24,12 +24,12 @@ class AboutMe:
 <ul>
     <li><code>2026.2</code>Top Student in the College of Engineering, Fall 2025</li>
     <li>
-      <code>2025.8-2025.9</code> 2025 MEIT AirProtector<b> Bronze Prize</b> | <a href="https://github.com/khwak/2025-MEIT-AirProtector.git">view</a> <br>
+      <code>2025.8-2025.9</code> 2025 MEIT AirProtector 🥉Bronze Prize | <a href="https://github.com/khwak/2025-MEIT-AirProtector.git">view</a> <br>
     - Air Protector: 지능형 공기 모니터링 및 관리 시스템
   </li>
     <li><code>2025.8</code>Academic Excellence Scholarship(Top 2% in major), Spring 2025</li>
      <li>
-        <code>2025.8.30-31</code> 2025 ookmyung × Kookmin Hackathon <b>Excellence Award</b> | <a href="https://github.com/2025-cokothon-team-3/frontend.git">view</a></li>
+        <code>2025.8.30-31</code> 2025 ookmyung × Kookmin Hackathon 🏆Excellence Award | <a href="https://github.com/2025-cokothon-team-3/frontend.git">view</a></li>
     - Travel Balance: 여행 밸런스 게임을 통해 여행 성향 분석 후 여행 균형점을 찾아준다 
   </li>
     <li><code>2025.2</code>Academic Excellence Scholarship(Top 5% in major), Fall 2024</li>
@@ -63,14 +63,12 @@ class AboutMe:
 <h3>💻 Projects (From Student Projects to Real Experience) </h3> 
 <ul>
   <li>
-    <code>2026.1-2026.2</code>
-  <b>2026 WantedLab Big Data Promptathon</b><br>
+    <code>2026.1-2026.2</code><b>2026 WantedLab Big Data Promptathon</b><br>
   - 반려동물 동반 여행 플랜 추천 AI 모델 개발 (LaaS 기반)
 </li>
 
   <li>
-       <code>2025.10-2025.12</code>
-    <b><a href="https://github.com/isliese/webProgramming-midAssignment.git">SoundLetter</a> Web Programming Capstone Project</b><br>
+       <code>2025.10-2025.12</code><b> Web Programming Capstone Project | <a href="https://github.com/isliese/webProgramming-midAssignment.git">view</a></b><br>
     - 감정 및 관계 중심 음악 추천·공유 플랫폼
   </li>
 
@@ -87,9 +85,8 @@ class AboutMe:
   </li>
 
     <li>
-      <code>2025.6.30-2025.7.4</code>
-    <b>Co-week Academy</b><br>
-    - 4박 5일간 진행된 IT 분야 집중 교육 수강
+      <code>2025.6.30-2025.7.4</code><b>Co-week Academy</b><br>
+      - 4박 5일간 진행된 IT 분야 집중 교육 수강
   </li>
   
   <li>
