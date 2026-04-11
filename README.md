@@ -1,17 +1,15 @@
 
 <h3 align="center">👋 Hello,<br>I'm <b>Ji-eun Choi</b></h3>
 <h5 align="center" style="color: lightgray;">Junior Developer | Still growing 🐛 → 🦋 </h5>
-<pre>
-
 <br>
 
+<pre>
 <b>class AboutMe:</b>
     name = "Ji-eun Choi"
     university = "Sookmyung Women's University"
     year = "Junior"
     major = "AI Engineering, Big Data Analytics"
 </pre>
-
 <br>
 
 <h3 align="left">🛠 Tech Stack</h3>
@@ -24,7 +22,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://img.shields.io/badge/SQL-Database-blue?style=flat&logo=oracle"/>
 </p>
-
 <br>
 
 <h3>💻 Projects (From Student Projects to Real Experience) </h3> 
@@ -65,7 +62,6 @@
     - 캠퍼스 내 빈 강의실을 실시간으로 확인하고 예약할 수 있는 웹 기반 시스템
   </li>
 </ul>
-
 <br>
 
 <h3>🏆Honors & Awards</h3>
@@ -82,7 +78,6 @@
   </li>
     <li><code>2025.2</code>Academic Excellence Scholarship(Top 5% in major), Fall 2024</li>
 </ul>
-
 <br>
 
 <h3>🤝Activities</h3>
@@ -90,28 +85,22 @@
   <li><code>2026.3- present </code>IT’s U Leadership Group</li>
   <li><code>2025.3-2025.6</code>AIT Coding Club</li>
 </ul>
-
-
 <h3>📜Certifications</h3>
 <ul>
   <li><code>2026.1</code>TOEFL ITP </li>
   <li><code>2025.3</code>SQLD</li>
 </ul>
-
-
 <h3>🙌volunteering</h3>
 <ul>
   <li><code>2025.11.7</code>유치원 봉사 </li>
   <li><code>2025.6.14-20</code>매장 도우미 및 기증응대 봉사 </li>
 </ul>
-
 <h3>🌱Future Interests</h3>
 <ul>
   <li>🍁 Exchange Program (Canada)</li>
   <li>🌍 English</li>
   <li>📊 Data</li>
 </ul>
-
 <h5 align="center"><b>✉️jieun560700@naver.com</b></h5> 
 
 
