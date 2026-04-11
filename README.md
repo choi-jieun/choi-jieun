@@ -82,7 +82,6 @@ class AboutMe:
     <b><a href="https://github.com/isliese/webProgramming-midAssignment.git">웹 프로그래밍 프로젝트</a> - [SoundLetter]</b><br>
     - 감정 및 관계 중심의 음악 추천·공유 플랫폼 개발
   </li>
- 
 
 <li>
     <code>2026.1-2026.2</code>
@@ -92,6 +91,12 @@ class AboutMe:
 </ul>
 <br>
 
+<h3>📜i belong to </h3>
+<ul>
+  <li><code>2025.3-6</code>AIT코딩동아리 </li>
+  <li><code>2025.3- present </code>IT's U 리더십그룹</li>
+</ul>
+<br>
 
 <h3>📜Certifications</h3>
 <ul>
@@ -109,7 +114,7 @@ class AboutMe:
 
 <h3>🙌i'm interested in </h3>
 <ul>
-  <li>캐나다 교환학생 </li>
+  <li>캐나다 교환학생</li>
   <li>데이터</li>
 </ul>
 <br>
