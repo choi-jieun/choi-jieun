@@ -29,7 +29,7 @@ class AboutMe:
   </li>
     <li><code>2025.8</code>Academic Excellence Scholarship(Top 2% in major), Spring 2025</li>
      <li>
-        <code>2025.8.30-31</code> 2025 ookmyung × Kookmin Hackathon 🏆Excellence Award | <a href="https://github.com/2025-cokothon-team-3/frontend.git">view</a></li>
+        <code>2025.8.30-31</code> 2025 Sookmyung × Kookmin Hackathon 🏆Excellence Award | <a href="https://github.com/2025-cokothon-team-3/frontend.git">view</a></li>
     - Travel Balance: 여행 밸런스 게임을 통해 여행 성향 분석 후 여행 균형점을 찾아준다 
   </li>
     <li><code>2025.2</code>Academic Excellence Scholarship(Top 5% in major), Fall 2024</li>
@@ -79,25 +79,22 @@ class AboutMe:
   </li>
 
    <li>
-      <code>2025.8-2025.9</code>
-    <b>Research Project (Engineering Conference)</b><br>
+      <code>2025.8-2025.9</code><b>Research Project (Engineering Conference)</b><br>
     - 캠퍼스 혼잡도 예측을 통한 대기 시간 시스템 구현 방안 연구(공과대학학술대회)
   </li>
 
-    <li>
+  <li>
       <code>2025.6.30-2025.7.4</code><b>Co-week Academy</b><br>
       - 4박 5일간 진행된 IT 분야 집중 교육 수강
   </li>
   
   <li>
-      <code>2025.3-2025.8</code>
-    <b>Grobit Calendar (AIT Project)</b><br>
+      <code>2025.3-2025.8</code><b>Grobit Calendar (AIT Project)</b><br>
     - 일정 달성률에 따라 나만의 캐릭터가 성장하는 캘린더로, 목표 관리 및 동기부여 기능 구현
   </li>
   
   <li>
-      <code>2025.3-2025.6</code>
-    <b>강찜콩 | Empty Classroom Reservation System</b><br>
+      <code>2025.3-2025.6</code><b>강찜콩 | Empty Classroom Reservation System</b><br>
     - 캠퍼스 내 빈 강의실을 실시간으로 확인하고 예약할 수 있는 웹 기반 시스템
   </li>
   
