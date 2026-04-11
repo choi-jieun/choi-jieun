@@ -79,8 +79,8 @@
 </ul>
 <h3>📜Certifications</h3>
 <ul>
-  <li><code>2026.1</code><a href = "https://www.toeflitp.co.kr/common/template/viewContents.php?contentsCode=48">TOEFL ITP(Level 1)</a> - Upper-intermediate level (B2)</li>
-  <li><code>2025.3</code> SQLD</li>
+  <li><code>2026.1</code><a href = "https://www.toeflitp.co.kr/common/template/viewContents.php?contentsCode=48"> TOEFL ITP(Level 1)</a> - Upper-intermediate level (B2)</li>
+  <li><code>2025.3</code><a href ="https://www.dataq.or.kr/www/sub/a_04.do"> SQLD</a></li>
 </ul>
 <h3>🙌volunteering</h3>
 <ul>
