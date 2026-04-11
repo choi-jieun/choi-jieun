@@ -30,27 +30,25 @@
     - Travel Balance: 여행 밸런스 게임을 통해 여행 성향 분석 후 여행 균형점을 찾아준다 
   </li>
     <li><code>2025.2</code>Academic Excellence Scholarship(Top 5% in major), Fall 2024</li>
-
-    
-  
-  
   
 </ul>
 <br>
+
+
+<h3>🤝Activities</h3>
+<ul>
+  <li><code>2026.3- present </code>IT’s U Leadership Group</li>
+  <li><code>2025.3-20205.6</code>AIT Coding Club</li>
+  
+</ul>
+<br>
+
 
 
 <h3>📜Certifications</h3>
 <ul>
   <li><code>2026.1</code>TOEFL ITP </li>
   <li><code>2025.3</code>SQLD</li>
-  
-</ul>
-<br>
-
-<h3>🤝Activities</h3>
-<ul>
-  <li><code>2026.3- present </code>IT’s U Leadership Group</li>
-  <li><code>2025.3-20205.6</code>AIT Coding Club</li>
   
 </ul>
 <br>
