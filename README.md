@@ -40,8 +40,23 @@ class AboutMe:
 <br>
 
 
+<h3>📜Certifications</h3>
+<ul>
+  <li><code>2025.3</code>SQLD</li>
+  <li><code>2026.1</code>TOEFL ITP </li>
+</ul>
+<br>
 
-<h3>💻 Projects</h3>
+<h3>📜i'm part of</h3>
+<ul>
+  <li><code>2025.3-6</code>AIT코딩동아리</li>
+  <li><code>2026.3- present </code>IT's U 리더십그룹</li>
+</ul>
+<br>
+
+
+
+<h3>💻 Projects (From Student Projects to Real Experience) </h3> 
 <ul>
   <li>
       <code>2025.3-2025.6</code>
@@ -91,20 +106,6 @@ class AboutMe:
 </ul>
 <br>
 
-<h3>📜i'm part of</h3>
-<ul>
-  <li><code>2025.3-6</code>AIT코딩동아리 </li>
-  <li><code>2026.3- present </code>IT's U 리더십그룹</li>
-</ul>
-<br>
-
-<h3>📜Certifications</h3>
-<ul>
-  <li><code>2025.3</code>SQLD</li>
-  <li><code>2026.1</code>TOEFL ITP </li>
-</ul>
-<br>
-
 <h3>🙌volunteering</h3>
 <ul>
   <li><code>2025.6.14-20</code>매장 도우미 및 기증응대 봉사 </li>
@@ -115,6 +116,7 @@ class AboutMe:
 <h3>🙌i'm interested in </h3>
 <ul>
   <li>캐나다 교환학생</li>
+    <li>영어</li>
   <li>데이터</li>
 </ul>
 <br>
