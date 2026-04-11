@@ -27,7 +27,7 @@
 <h3>💻 Projects (From Student Projects to Real Experience) </h3> 
 <ul>
   <li>
-    <code>2026.1-2026.2</code><b> 2026 WantedLab Big Data Promptathon</b> - 반려동물 동반 여행 플랜 추천 AI 모델 '댕기다' 개발 (LaaS 기반)
+    <code>2026.1-2026.2</code><b> 2026 <a href="https://www.wantedlab.com/">WantedLab</a>WantedLab Big Data Promptathon</b> - 반려동물 동반 여행 플랜 추천 AI 모델 '댕기다' 개발 (LaaS 기반)
 </li>
 
   <li>
