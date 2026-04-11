@@ -37,6 +37,7 @@
   <a href="https://www.oracle.com/tools/downloads/sqldev-downloads.html" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
   </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
 </p>
 <br>
 
