@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/SQL-Database-blue?style=flat&logo=oracle"/>
 
 </p>
-
+<br>
 
 <h3>💻 Projects (From Student Projects to Real Experience) </h3> 
 <ul>
