@@ -37,11 +37,23 @@
   <a href="https://www.oracle.com/tools/downloads/sqldev-downloads.html" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
   </a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
+   
 </p>
 <br>
 
+<h3 align="left">🛠 Tech Stack</h3>
+<p>
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+
+<img src="https://img.shields.io/badge/SQL-Database-blue?style=flat&logo=oracle"/>
+
+</p>
 <h3>💻 Projects (From Student Projects to Real Experience) </h3> 
 <ul>
   <li>
