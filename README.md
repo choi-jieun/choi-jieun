@@ -120,8 +120,6 @@
 </ul>
 <br>
 
-
-<br>
 <h5 align="center"><b>✉️jieun560700@naver.com</b></h5> 
 
 
