@@ -66,7 +66,7 @@
   </li>
     <li><code>2025.8</code> Academic Excellence Scholarship(Top 2% in major), Spring 2025</li>
      <li>
-        <code>2025.8.30-31</code> <b> 2025 Sookmyung × Kookmin Hackathon</b> 🏆Excellence Award  -여행 밸런스 게임을 통해 여행 성향 분석 후, 단체 여행 균형점 제공 서비스 'Travel Balence'</b> | <a href="https://github.com/2025-cokothon-team-3/frontend.git"><b>view</a></li>
+        <code>2025.8.30-31</code> <b> 2025 Sookmyung × Kookmin Hackathon</b> 🏆Excellence Award  -여행 밸런스 게임을 통해 여행 성향 분석 후, 단체 여행 균형점 제공 서비스 'Travel Balence' | <a href="https://github.com/2025-cokothon-team-3/frontend.git">view</a></li>
   </li>
     <li><code>2025.2</code> Academic Excellence Scholarship(Top 5% in major), Fall 2024</li>
 </ul>
