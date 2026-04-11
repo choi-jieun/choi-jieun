@@ -1,11 +1,6 @@
 
 <h3 align="center">👋 Hello,<br>I'm <b>Ji-eun Choi</b></h3>
 <h5 align="center" style="color: lightgray;">Junior Developer | Still growing 🐛 → 🦋 </h5>
-
-
-<br>
-
-
 <pre>
 <b>class AboutMe:</b>
     name = "Ji-eun Choi"
@@ -14,7 +9,7 @@
     major = "AI Engineering, Big Data Analytics"
 </pre>
 
-
+<br>
 <h3 align="left">🛠 Tech Stack</h3>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
