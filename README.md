@@ -88,7 +88,7 @@
 </ul>
 <h3>🌱Interests</h3>
 <ul>
-  <li>🍁 Exchange Program (Canada)</li>
+  <li>🇨🇦 Exchange Program (Canada)</li>
   <li>🌍 English</li>
   <li>📊 Data</li>
 </ul>
