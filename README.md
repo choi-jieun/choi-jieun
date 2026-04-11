@@ -1,6 +1,6 @@
 
 <h3 align="center">👋 Hello,<br>I'm <b>Ji-eun Choi</b></h3>
-<h5 align="center" style="color: lightgray;">Junior Developer | Still growing 🐛 → 🦋 </h5>
+<h5 align="center" style="color: lightgray;">Junior | Still growing 🐛 → 🦋 </h5>
 <br>
 
 <pre>
