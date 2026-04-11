@@ -62,7 +62,7 @@
 <ul>
     <li><code>2026.2</code> Academic Excellence Scholarship(Top Student in the College of Engineering), Fall 2025</li>
     <li>
-      <code>2025.8-2025.9</code><b> 2025 MEIT</b> 🥉Bronze Prize -지능형 공기 모니터링 및 관리 시스템 'AirProtector'</b> | <a href="https://github.com/khwak/2025-MEIT-AirProtector.git"><b>view</a> <br>
+      <code>2025.8-2025.9</code><b> 2025 MEIT</b> 🥉Bronze Prize -지능형 공기 모니터링 및 관리 시스템 'AirProtector' | <a href="https://github.com/khwak/2025-MEIT-AirProtector.git">view</a> <br>
   </li>
     <li><code>2025.8</code> Academic Excellence Scholarship(Top 2% in major), Spring 2025</li>
      <li>
