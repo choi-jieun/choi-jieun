@@ -17,24 +17,6 @@
 
 
 
-<h3>🏆Honors & Awards</h3>
-<ul>
-    <li><code>2026.2</code>Top Student in the College of Engineering, Fall 2025</li>
-    <li>
-      <code>2025.8-2025.9</code> 2025 MEIT AirProtector 🥉Bronze Prize | <a href="https://github.com/khwak/2025-MEIT-AirProtector.git">view</a> <br>
-    - Air Protector: 지능형 공기 모니터링 및 관리 시스템
-  </li>
-    <li><code>2025.8</code>Academic Excellence Scholarship(Top 2% in major), Spring 2025</li>
-     <li>
-        <code>2025.8.30-31</code> 2025 Sookmyung × Kookmin Hackathon 🏆Excellence Award | <a href="https://github.com/2025-cokothon-team-3/frontend.git">view</a></li>
-    - Travel Balance: 여행 밸런스 게임을 통해 여행 성향 분석 후 여행 균형점을 찾아준다 
-  </li>
-    <li><code>2025.2</code>Academic Excellence Scholarship(Top 5% in major), Fall 2024</li>
-  
-</ul>
-<br>
-
-
 <h3>🤝Activities</h3>
 <ul>
   <li><code>2026.3- present </code>IT’s U Leadership Group</li>
@@ -53,7 +35,22 @@
 </ul>
 <br>
 
-
+<h3>🏆Honors & Awards</h3>
+<ul>
+    <li><code>2026.2</code>Top Student in the College of Engineering, Fall 2025</li>
+    <li>
+      <code>2025.8-2025.9</code> 2025 MEIT AirProtector 🥉Bronze Prize | <a href="https://github.com/khwak/2025-MEIT-AirProtector.git">view</a> <br>
+    - Air Protector: 지능형 공기 모니터링 및 관리 시스템
+  </li>
+    <li><code>2025.8</code>Academic Excellence Scholarship(Top 2% in major), Spring 2025</li>
+     <li>
+        <code>2025.8.30-31</code> 2025 Sookmyung × Kookmin Hackathon 🏆Excellence Award | <a href="https://github.com/2025-cokothon-team-3/frontend.git">view</a></li>
+    - Travel Balance: 여행 밸런스 게임을 통해 여행 성향 분석 후 여행 균형점을 찾아준다 
+  </li>
+    <li><code>2025.2</code>Academic Excellence Scholarship(Top 5% in major), Fall 2024</li>
+  
+</ul>
+<br>
 
 <h3>💻 Projects (From Student Projects to Real Experience) </h3> 
 <ul>
