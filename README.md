@@ -7,7 +7,7 @@
 
 
 <pre>
-class AboutMe:
+<b>class AboutMe:</b>
     name = "Ji-eun Choi"
     university = "Sookmyung Women's University"
     year = "Junior"
