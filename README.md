@@ -11,7 +11,7 @@
     name = "Ji-eun Choi"
     university = "Sookmyung Women's University"
     year = "Junior"
-    major = "AI Engineering, Big Data Analytics(Double Major)"
+    major = "AI Engineering, Big Data Analytics"
 </pre>
 <br>
 
