@@ -8,7 +8,7 @@
     name = "Ji-eun Choi"
     university = "Sookmyung Women's University"
     year = "Junior"
-    major = "AI Engineering, Big Data Analytics"
+    major = "<a href ="https://aie.sookmyung.ac.kr/it/index.do">AI Engineering</a>, Big Data Analytics"
 </pre>
 <br>
 
