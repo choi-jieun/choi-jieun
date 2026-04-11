@@ -31,7 +31,7 @@
 </li>
 
   <li>
-       <code>2025.10-2025.12</code><b> Web Programming Capstone Project | <a href="https://github.com/isliese/webProgramming-midAssignment.git">view</a></b>
+       <code>2025.10-2025.12</code><b> Web Programming Capstone Project</b> | <a href="https://github.com/isliese/webProgramming-midAssignment.git">view</a>
      - 감정 및 관계 중심 음악 추천·공유 플랫폼 'Soundletter'
   </li>
 
@@ -62,11 +62,11 @@
 <ul>
     <li><code>2026.2</code> Academic Excellence Scholarship(Top Student in the College of Engineering), Fall 2025</li>
     <li>
-      <code>2025.8-2025.9</code><b> 2025 MEIT</b> 🥉Bronze Prize -지능형 공기 모니터링 및 관리 시스템 'AirProtector' | <a href="https://github.com/khwak/2025-MEIT-AirProtector.git"><b>view</b></a> <br>
+      <code>2025.8-2025.9</code><b> 2025 MEIT</b> 🥉Bronze Prize -지능형 공기 모니터링 및 관리 시스템 'AirProtector'</b> | <a href="https://github.com/khwak/2025-MEIT-AirProtector.git"><b>view</a> <br>
   </li>
     <li><code>2025.8</code> Academic Excellence Scholarship(Top 2% in major), Spring 2025</li>
      <li>
-        <code>2025.8.30-31</code> <b> 2025 Sookmyung × Kookmin Hackathon</b> 🏆Excellence Award  -여행 밸런스 게임을 통해 여행 성향 분석 후, 단체 여행 균형점 제공 서비스 'Travel Balence' | <a href="https://github.com/2025-cokothon-team-3/frontend.git"><b>view</b></a></li>
+        <code>2025.8.30-31</code> <b> 2025 Sookmyung × Kookmin Hackathon</b> 🏆Excellence Award  -여행 밸런스 게임을 통해 여행 성향 분석 후, 단체 여행 균형점 제공 서비스 'Travel Balence'</b> | <a href="https://github.com/2025-cokothon-team-3/frontend.git"><b>view</a></li>
   </li>
     <li><code>2025.2</code> Academic Excellence Scholarship(Top 5% in major), Fall 2024</li>
 </ul>
