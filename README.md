@@ -87,7 +87,7 @@
 </ul>
 <h3>📜Certifications</h3>
 <ul>
-  <li><code>2026.1</code>TOEFL ITP(Level 1) - CEFR B2</li>
+  <li><code>2026.1</code>TOEFL ITP(Level 1) - Upper-intermediate level (B2)</li>
   <li><code>2025.3</code>SQLD</li>
 </ul>
 <h3>🙌volunteering</h3>
