@@ -15,42 +15,31 @@
 </pre>
 <br>
 
-
-
-<h3>🤝Activities</h3>
-<ul>
-  <li><code>2026.3- present </code>IT’s U Leadership Group</li>
-  <li><code>2025.3-2025.6</code>AIT Coding Club</li>
-  
-</ul>
+<h3 align="left">🛠 Tech Stack</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/tools/downloads/sqldev-downloads.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
+  </a>
+</p>
 <br>
 
-
-
-<h3>📜Certifications</h3>
-<ul>
-  <li><code>2026.1</code>TOEFL ITP </li>
-  <li><code>2025.3</code>SQLD</li>
-  
-</ul>
-<br>
-
-<h3>🏆Honors & Awards</h3>
-<ul>
-    <li><code>2026.2</code>Top Student in the College of Engineering, Fall 2025</li>
-    <li>
-      <code>2025.8-2025.9</code> 2025 MEIT AirProtector 🥉Bronze Prize | <a href="https://github.com/khwak/2025-MEIT-AirProtector.git">view</a> <br>
-    - Air Protector: 지능형 공기 모니터링 및 관리 시스템
-  </li>
-    <li><code>2025.8</code>Academic Excellence Scholarship(Top 2% in major), Spring 2025</li>
-     <li>
-        <code>2025.8.30-31</code> 2025 Sookmyung × Kookmin Hackathon 🏆Excellence Award | <a href="https://github.com/2025-cokothon-team-3/frontend.git">view</a></li>
-    - Travel Balance: 여행 밸런스 게임을 통해 여행 성향 분석 후 여행 균형점을 찾아준다 
-  </li>
-    <li><code>2025.2</code>Academic Excellence Scholarship(Top 5% in major), Fall 2024</li>
-  
-</ul>
-<br>
 
 <h3>💻 Projects (From Student Projects to Real Experience) </h3> 
 <ul>
@@ -93,12 +82,47 @@
 </ul>
 <br>
 
+<h3>🏆Honors & Awards</h3>
+<ul>
+    <li><code>2026.2</code>Top Student in the College of Engineering, Fall 2025</li>
+    <li>
+      <code>2025.8-2025.9</code> 2025 MEIT AirProtector 🥉Bronze Prize | <a href="https://github.com/khwak/2025-MEIT-AirProtector.git">view</a> <br>
+    - Air Protector: 지능형 공기 모니터링 및 관리 시스템
+  </li>
+    <li><code>2025.8</code>Academic Excellence Scholarship(Top 2% in major), Spring 2025</li>
+     <li>
+        <code>2025.8.30-31</code> 2025 Sookmyung × Kookmin Hackathon 🏆Excellence Award | <a href="https://github.com/2025-cokothon-team-3/frontend.git">view</a></li>
+    - Travel Balance: 여행 밸런스 게임을 통해 여행 성향 분석 후 여행 균형점을 찾아준다 
+  </li>
+    <li><code>2025.2</code>Academic Excellence Scholarship(Top 5% in major), Fall 2024</li>
+  
+</ul>
+<br>
+
+<h3>🤝Activities</h3>
+<ul>
+  <li><code>2026.3- present </code>IT’s U Leadership Group</li>
+  <li><code>2025.3-2025.6</code>AIT Coding Club</li>
+  
+</ul>
+<br>
+
+
+<h3>📜Certifications</h3>
+<ul>
+  <li><code>2026.1</code>TOEFL ITP </li>
+  <li><code>2025.3</code>SQLD</li>
+  
+</ul>
+<br>
+
 <h3>🙌volunteering</h3>
 <ul>
   <li><code>2025.11.7</code>유치원 봉사 </li>
   <li><code>2025.6.14-20</code>매장 도우미 및 기증응대 봉사 </li>
 </ul>
 <br>
+
 
 <h3>🌱Interests</h3>
 <ul>
@@ -109,33 +133,7 @@
 <br>
 
 
-<h3 align="left">🛠 Tech Stack</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/tools/downloads/sqldev-downloads.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
-  </a>
-</p>
-<br>
 <br>
 <h5 align="center"><b>✉️jieun560700@naver.com</b></h5> 
-
-
 
 
