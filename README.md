@@ -86,7 +86,6 @@
   <li>🌍 English</li>
   <li>📊 Data</li>
 </ul>
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 <h5 align="center"><b>✉️jieun560700@naver.com</b></h5> 
 
 
