@@ -72,7 +72,7 @@
 
 <h3>🤝Activities</h3>
 <ul>
-  <li><code>2026.3- present </code> SookMyung IT Leadership Group(IT's U)</li>
+  <li><code>2026.3- present </code> SookMyung IT Leadership Group (IT's U)</li>
   <li><code>2025.3-2025.6</code> AIT Coding Club</li>
 </ul>
 <h3>📜Certifications</h3>
