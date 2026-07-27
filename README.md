@@ -44,11 +44,6 @@
    <li>
       <code>2025.8-2025.9</code><b> Smart Campus Research Project (Engineering Conference)</b> - 캠퍼스 혼잡도 예측을 통한 대기 시간 시스템 구현 방안 연구(공과대학학술대회)
   </li>
-
-  <li>
-      <code>2025.6.30-2025.7.4</code><b><a href ="https://www.cossnet.com/coweek/intro"> Co-week Academy</a></b>- 4박 5일간 진행된 IT 분야 집중 교육 수강
-  </li>
-  
   <li>
       <code>2025.3-2025.8</code><b> 'Grobit Calendar' Project (AIT Project)</b> - 일정 달성률에 따라 나만의 캐릭터가 성장하는 캘린더로, 목표 관리 및 동기부여 기능 구현
   </li>
@@ -61,7 +56,7 @@
 
 <h3>🏆Honors & Awards</h3>
 <ul>
-    <li><code>2026.5</code> <a href="https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship05_06_01&utm_">🎓 National Scholarship for Science and Engineering Recipient</a></li>
+    <li><code>2026.5</code> 🎓 <a href="https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship05_06_01&utm_">National Scholarship for Science and Engineering </a>Recipient</li>
     <li><code>2026.2</code> Academic Excellence Scholarship(Top Student in the College of Engineering), Fall 2025</li>
     <li>
       <code>2025.8-2025.9</code><b> 2025 MEIT</b> 🥉Bronze Prize -지능형 공기 모니터링 및 관리 시스템 'AirProtector' | <a href="https://github.com/khwak/2025-MEIT-AirProtector.git">view</a> <br>
@@ -72,13 +67,18 @@
   </li>
     <li><code>2025.2</code> Academic Excellence Scholarship(Top 5% in major), Fall 2024</li>
 </ul>
+
 <br>
 
 <h3>🤝Activities</h3>
 <ul>
-  <li><code>2026.7.6-15 </code> UNSW PELE Workshop - Global Communication Program</li>  
-  <li><code>2026.3- 2026.6 </code> SookMyung IT Leadership Group (IT's U)</li>
+  <li><code>2026.7.6-15 </code> <a href="https://www.unsw.edu.au/arts-design-architecture/our-schools/humanities-languages/student-life/resources-support/personalised-english-language-enhancement?utm_">UNSW PELE Workshop</a> - Global Communication Program</li>  
+  <li><code>2026.3- 2026.6 </code> <a href="https://aie.sookmyung.ac.kr/welfare/support/leadership.do?utm_">SookMyung IT Leadership Group (IT's U)</a></li>
+  <li>
+      <code>2025.6.30-2025.7.4</code><b><a href ="https://www.cossnet.com/coweek/intro"> Co-week Academy</a></b>- 4박 5일간 진행된 IT 분야 집중 교육 수강
+  </li>
   <li><code>2025.3-2025.6</code> AIT Coding Club</li>
+  
 </ul>
 <h3>📜Certifications</h3>
 <ul>
