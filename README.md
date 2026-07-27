@@ -26,7 +26,7 @@
 <h3>💻 Projects (From Student Projects to Real Experience) </h3> 
 <ul>
   <li>
-    <code>2026.4-2026.6</code><b> OpenSource Programming Final Project</b> - 우울증 환자의 일상 회복 도우미 'Nudge' 개발
+    <code>2026.4-2026.6</code><b> OpenSource Programming Final Project</b> - 우울증 환자의 일상 회복을 돕는 AI 기반 루틴 코칭 서비스 'Nudge' 개발
 </li>
   <li>
     <code>2026.1-2026.2</code><b> 2026 <a href="https://www.wantedlab.com/">WantedLab</a> Big Data Promptathon</b> - 반려동물 동반 여행 플랜 추천 AI 모델 '댕기다' 개발 (LaaS 기반)
