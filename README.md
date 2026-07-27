@@ -33,7 +33,7 @@
 </li>
 
   <li>
-       <code>2025.10-2025.12</code><b> Web Programming Capstone Project</b> - 감정 및 관계 중심 음악 추천·공유 플랫폼 'Soundletter' | <a href="https://github.com/isliese/webProgramming-midAssignment.git">view</a>
+       <code>2025.10-2025.12</code><b> Web Programming Capstone Project</b> - 감정 및 관계 중심 음악 추천·공유 플랫폼 'Soundletter' | <a href="https://github.com/choi-jieun/webProgramming-midAssignment.git">view</a>
   </li>
 
    <li>
