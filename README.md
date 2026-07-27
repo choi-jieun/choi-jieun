@@ -75,7 +75,7 @@
   <li><code>2026.7.6-15 </code> <a href="https://www.unsw.edu.au/arts-design-architecture/our-schools/humanities-languages/student-life/resources-support/personalised-english-language-enhancement?utm_">UNSW PELE Workshop</a> - Global Communication Program</li>  
   <li><code>2026.3- 2026.6 </code> <a href="https://aie.sookmyung.ac.kr/welfare/support/leadership.do?utm_">SookMyung IT Leadership Group (IT's U)</a></li>
   <li>
-      <code>2025.6.30-2025.7.4</code><b><a href ="https://www.cossnet.com/coweek/intro"> Co-week Academy</a></b>- 4박 5일간 진행된 IT 분야 집중 교육 수강
+      <code>2025.6.30-2025.7.4</code><a href ="https://www.cossnet.com/coweek/intro"> Co-week Academy</a>- 4박 5일간 진행된 IT 분야 집중 교육 수강
   </li>
   <li><code>2025.3-2025.6</code> AIT Coding Club</li>
   
