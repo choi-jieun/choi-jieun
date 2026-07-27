@@ -90,6 +90,7 @@
   <li>🇨🇦 Exchange Program (Canada)</li>
   <li>🌍 English</li>
   <li>📊 Data</li>
+  <li>🎥 Media</li>
 </ul>
 <h5 align="center"><b>✉️jieun560700@naver.com</b></h5> 
 
