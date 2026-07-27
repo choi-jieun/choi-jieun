@@ -76,6 +76,7 @@
 
 <h3>🤝Activities</h3>
 <ul>
+  <li><code>2026.7.6-15 </code> UNSW PELE Workshop - Global Communication Program</li>  
   <li><code>2026.3- 2026.6 </code> SookMyung IT Leadership Group (IT's U)</li>
   <li><code>2025.3-2025.6</code> AIT Coding Club</li>
 </ul>
