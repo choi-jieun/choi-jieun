@@ -49,7 +49,7 @@
   </li>
   
   <li>
-      <code>2025.3-2025.6</code><b>Empty Classroom Reservation System</b> - 캠퍼스 내 빈 강의실을 실시간으로 확인하고 예약할 수 있는 웹 기반 시스템 '강찜콩'
+      <code>2025.3-2025.6</code><b> Object-Oriented Programming Capstone Project</b> - 캠퍼스 내 빈 강의실을 실시간으로 확인하고 예약할 수 있는 웹 기반 시스템 '강찜콩'
   </li>
 </ul>
 <br>
