@@ -1,11 +1,11 @@
 
-<h3 align="center">👋 Hello,<br>I'm <b>Ji-eun Choi</b></h3>
+<h3 align="center">👋 Hello,<br>I'm <b>Jieun Choi</b></h3>
 <h5 align="center" style="color: lightgray;">Junior | Still growing 🐛 → 🦋 </h5>
 <br>
 
 <pre>
 <b>class AboutMe:</b>
-    name = "Ji-eun Choi"
+    name = "Jieun Choi"
     university = "Sookmyung Women's University"
     year = "Junior"
     major = "<a href ="https://aie.sookmyung.ac.kr/it/index.do">AI Engineering</a>, Big Data Analytics"
