@@ -29,7 +29,7 @@
     <code>2026.4-2026.6</code><b> OpenSource Programming Final Project</b> - 우울증 환자의 일상 회복을 돕는 AI 기반 루틴 코칭 서비스 'Nudge' 개발(YOLO 학습&이용) | <a href="https://github.com/choi-jieun/OSS_Nudge.git">view</a>
 </li>
   <li>
-    <code>2026.1-2026.2</code><b> 2026 <a href="https://www.wantedlab.com/">WantedLab</a> Big Data Promptathon</b> - 반려동물 동반 여행 플랜 추천 AI 모델 '댕기다' 개발 (<a href="https://laas.wanted.co.kr/docs/getting-started/about-laas?utm">LaaS</a> 기반)
+    <code>2026.1-2026.2</code><b> 2026 <a href="https://www.wantedlab.com/">WantedLab</a> <a href ="https://blog.wantedlab.com/news/20260211?utm_">Big Data Promptathon</a></b> - 반려동물 동반 여행 플랜 추천 AI 모델 '댕기다' 개발 (<a href="https://laas.wanted.co.kr/docs/getting-started/about-laas?utm">LaaS</a> 기반)
 </li>
   <li>
        <code>2025.10-2025.12</code><b> Web Programming Capstone Project</b> - 감정 및 관계 중심 음악 추천·공유 플랫폼 'Soundletter' | <a href="https://github.com/choi-jieun/webProgramming-midAssignment.git">view</a>
