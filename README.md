@@ -5,7 +5,8 @@
 
 <pre>
 <b>class AboutMe:</b>
-    name = "Jieun(/Hazel) Choi"
+    name = "Jieun Choi"
+    english_name = "Hazel"
     university = "Sookmyung Women's University"
     year = "Junior"
     major = "<a href ="https://aie.sookmyung.ac.kr/it/index.do">AI Engineering</a>, Big Data Analytics"
