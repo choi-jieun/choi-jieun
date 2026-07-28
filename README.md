@@ -92,7 +92,7 @@
   <li>📊 Data</li>
   <li>🎥 Media</li>
 </ul>
-<h5 align="center"><b>✉️jieun560700@naver.com</b></h5>
+
 
 <p align="center"> <a href="https://www.linkedin.com/in/%EC%A7%80%EC%9D%80-%EC%B5%9C-106390377/">
   <img
@@ -101,4 +101,5 @@
     alt="LinkedIn"
   />
 </a></p>
+<h5 align="center"><b>✉️jieun560700@naver.com</b></h5>
 
