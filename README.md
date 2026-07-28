@@ -100,5 +100,5 @@
     width="45"
     alt="LinkedIn"
   />
-</a> &nbsp; | &nbsp; <b>✉️ jieun560700@naver.com</b> </p>
+</a></p>
 
