@@ -94,12 +94,12 @@
 </ul>
 
 
-<div align="center"> <a href="https://www.linkedin.com/in/%EC%A7%80%EC%9D%80-%EC%B5%9C-106390377/">
+<h5 align="center"><b>✉️jieun560700@naver.com</b></h5>
+<p align="center"> <a href="https://www.linkedin.com/in/%EC%A7%80%EC%9D%80-%EC%B5%9C-106390377/">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-    width="45"
+    width="30"
     alt="LinkedIn"
   />
-</a></div>
-<h5 align="center"><b>✉️jieun560700@naver.com</b></h5>
+</a></p>
 
