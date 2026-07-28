@@ -98,7 +98,7 @@
 <p align="center"> <a href="https://www.linkedin.com/in/%EC%A7%80%EC%9D%80-%EC%B5%9C-106390377/">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-    width="30"
+    width="35"
     alt="LinkedIn"
   />
 </a></p>
