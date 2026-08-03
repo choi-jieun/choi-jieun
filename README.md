@@ -38,7 +38,7 @@
 
    <li>
        <code>2025.11</code>
-    <b> ESQL Assignment(personal project) – Restaurant System</b> - DB 설계를 기반으로 한 식당 예약 및 주문 관리 시스템
+    <b> ESQL Assignment – Restaurant System (personal project) </b> - DB 설계를 기반으로 한 식당 예약 및 주문 관리 시스템
   </li>
 
    <li>
