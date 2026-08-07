@@ -41,7 +41,7 @@
 
    <li>
        <code>2025.11</code>
-    <b> ESQL Assignment – Restaurant Management System (personal project) </b> - DB 설계를 기반으로 한 식당 예약 및 주문 관리 시스템 | Backend (DB Design & SQL Development), Frontend
+    <b> ESQL Assignment – Restaurant Management System (personal project) </b> - 식당 예약 및 주문 관리 시스템 | Backend (DB Design & SQL Development), Frontend
   </li>
 
    <li>
