@@ -30,7 +30,7 @@
     <code>2026.7.23-2026.8</code><b> AI-based Global Short-form Assistant Project</b> - AI 기반 글로벌 숏폼 제작 보조 서비스 개발 | UI·UX, Frontend | <a href="https://github.com/choi-jieun/Global-shortform-Assistant">view</a>
 </li>
   <li>
-    <code>2026.4-2026.6</code><b> OpenSource Programming Final Project</b> - 우울증 환자의 일상 회복을 돕는 AI 기반 루틴 코칭 서비스 'Nudge' 개발 | AI(AI (YOLO Training & Application)), UI·UX | <a href="https://github.com/choi-jieun/OSS_Nudge.git">view</a>
+    <code>2026.4-2026.6</code><b> OpenSource Programming Final Project</b> - 우울증 환자의 일상 회복을 돕는 AI 기반 루틴 코칭 서비스 'Nudge' 개발 | AI (YOLO Training & Application), UI·UX | <a href="https://github.com/choi-jieun/OSS_Nudge.git">view</a>
 </li>
   <li>
     <code>2026.1-2026.2</code><b> 2026 <a href="https://www.wantedlab.com/">WantedLab</a>'s <a href ="https://blog.wantedlab.com/news/20260211?utm_">Big Data Promptathon</a></b> - 반려동물 동반 여행 플랜 추천 AI 모델 '댕기다' 개발 | Planning, <a href="https://laas.wanted.co.kr/docs/getting-started/about-laas?utm">LaaS</a> based development
