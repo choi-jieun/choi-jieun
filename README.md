@@ -41,18 +41,18 @@
 
    <li>
        <code>2025.11</code>
-    <b> ESQL Assignment – Restaurant System (personal project) </b> - DB 설계를 기반으로 한 식당 예약 및 주문 관리 시스템
+    <b> ESQL Assignment – Restaurant Management System (personal project) </b> - DB 설계를 기반으로 한 식당 예약 및 주문 관리 시스템 | Backend (DB Design & SQL Development), Frontend
   </li>
 
    <li>
       <code>2025.8-2025.9</code><b> Smart Campus Research Project (Engineering Conference)</b> - 캠퍼스 혼잡도 예측을 통한 대기 시간 시스템 구현 방안 연구(공과대학학술대회)
   </li>
   <li>
-      <code>2025.3-2025.8</code><b> 'Grobit Calendar' Project (AIT Project)</b> - 일정 달성률에 따라 나만의 캐릭터가 성장하는 캘린더로, 목표 관리 및 동기부여 기능 구현
+      <code>2025.3-2025.8</code><b> 'Grobit Calendar' Project (AIT Project)</b> - 일정 달성률에 따라 나만의 캐릭터가 성장하는 캘린더로, 목표 관리 및 동기부여 기능 구현 | Frontend
   </li>
   
   <li>
-      <code>2025.3-2025.6</code><b> Object-Oriented Programming Capstone Project</b> - 캠퍼스 내 빈 강의실을 실시간으로 확인하고 예약할 수 있는 웹 기반 시스템 '강찜콩'
+      <code>2025.3-2025.6</code><b> Object-Oriented Programming Capstone Project</b> - 캠퍼스 내 빈 강의실을 실시간으로 확인하고 예약할 수 있는 웹 기반 시스템 '강찜콩' | Frontend
   </li>
 </ul>
 <br>
