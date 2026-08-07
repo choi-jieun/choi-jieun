@@ -27,7 +27,7 @@
 <h3>💻 Projects (From Student Projects to Real Experience) </h3> 
 <ul>
     <li>
-    <code>2026.7.23-2026.8</code><b> AI-based Global Short-form Assistant Project</b> - 긴 영상의 핵심 구간 추출 및 자막·번역·제목·해시태그 생성을 지원하는 AI 기반 글로벌 숏폼 제작 보조 서비스 개발 (UI·UX / Frontend) | <a href="https://github.com/choi-jieun/Global-shortform-Assistant">view</a>
+    <code>2026.7.23-2026.8</code><b> AI-based Global Short-form Assistant Project</b> - AI 기반 글로벌 숏폼 제작 보조 서비스 개발 (UI·UX / Frontend) | <a href="https://github.com/choi-jieun/Global-shortform-Assistant">view</a>
 </li>
   <li>
     <code>2026.4-2026.6</code><b> OpenSource Programming Final Project</b> - 우울증 환자의 일상 회복을 돕는 AI 기반 루틴 코칭 서비스 'Nudge' 개발(YOLO 학습&이용) | <a href="https://github.com/choi-jieun/OSS_Nudge.git">view</a>
